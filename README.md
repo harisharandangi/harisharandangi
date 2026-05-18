@@ -13,7 +13,7 @@ I build engineering systems at the intersection of **mechanical design**, **robo
     <img src="https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/hari-sharan-dangi-35252b224">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://textocad.com">
     <img src="https://img.shields.io/badge/TextoCAD-7c3aed?style=for-the-badge&logo=autodesk&logoColor=white" alt="TextoCAD" />
