@@ -10,19 +10,19 @@ I build engineering systems at the intersection of **mechanical design**, **robo
 
 <p align="center">
   <a href="https://harisharandangi.com.np">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0f766e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/hari-sharan-dangi-35252b224">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://textocad.com">
-    <img src="https://img.shields.io/badge/TextoCAD-AI%20Text--to--CAD-7c3aed?style=for-the-badge&logo=autodesk&logoColor=white" alt="TextoCAD" />
+    <img src="https://img.shields.io/badge/TextoCAD-7c3aed?style=for-the-badge&logo=autodesk&logoColor=white" alt="TextoCAD" />
   </a>
   <a href="https://gadidokan.com">
-    <img src="https://img.shields.io/badge/GadiDokan-Founder-0891b2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="GadiDokan" />
+    <img src="https://img.shields.io/badge/GadiDokan-0891b2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="GadiDokan" />
   </a>
   <a href="mailto:harrysharandc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-dc2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-dc2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 <br />
