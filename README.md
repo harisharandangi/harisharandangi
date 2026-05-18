@@ -8,23 +8,23 @@ I build engineering systems at the intersection of **mechanical design**, **robo
 
 <br />
 
-<a href="https://harisharandangi.com.np">
-  <img src="https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/hari-sharan-dangi-35252b224">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://textocad.com">
-  <img src="https://img.shields.io/badge/TextoCAD%20-2563eb?style=for-the-badge&logo=autodesk&logoColor=white" />
-</a>
-<a href="https://gadidokan.com">
-  <img src="https://img.shields.io/badge/GadiDokan-0891b2?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</a>
-<a href="mailto:harrysharandc@gmail.com">
-  <img src="https://img.shields.io/badge/Email-dc2626?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br />
+<p align="center">
+  <a href="https://harisharandangi.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0f766e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/hari-sharan-dangi-35252b224">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://textocad.com">
+    <img src="https://img.shields.io/badge/TextoCAD-AI%20Text--to--CAD-7c3aed?style=for-the-badge&logo=autodesk&logoColor=white" alt="TextoCAD" />
+  </a>
+  <a href="https://gadidokan.com">
+    <img src="https://img.shields.io/badge/GadiDokan-Founder-0891b2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="GadiDokan" />
+  </a>
+  <a href="mailto:harrysharandc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-dc2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 <br />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Robotics+%7C+Control+Systems+%7C+CAD%2FCAE+Simulation;SLAM+%7C+LQR+%7C+ROS+%7C+Gazebo+%7C+MATLAB;Building+TextoCAD+and+GadiDokan;Engineering+systems+with+curiosity%2C+precision%2C+and+practical+impact" alt="Typing SVG" />
