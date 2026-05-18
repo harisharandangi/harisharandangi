@@ -27,7 +27,7 @@ I build engineering systems at the intersection of **mechanical design**, **robo
 </p>
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Robotics+%7C+Control+Systems+%7C+CAD%2FCAE+Simulation;SLAM+%7C+LQR+%7C+ROS+%7C+Gazebo+%7C+MATLAB;Building+TextoCAD+and+GadiDokan;Engineering+systems+with+curiosity%2C+precision%2C+and+practical+impact" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Robotics+%7C+AM+%7C+Control+Systems+%7C+CAD%2FCAE+Simulation;SLAM+%7C+LQR+%7C+ROS+%7C+Gazebo+%7C+MATLAB;Building+TextoCAD+agentic+workflow+and+GadiDokan;Engineering+systems+with+curiosity%2C+precision%2C+and+practical+impact" alt="Typing SVG" />
 
 </div>
 
