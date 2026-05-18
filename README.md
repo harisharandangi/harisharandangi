@@ -2,7 +2,7 @@
 
 # Hi, I'm Hari Sharan Dangi 👋
 
-### Mechatronics Engineer · Robotics & Control Systems · CAD/CAE Simulation · Cyber-Physical Systems
+### Mechatronics/Mechanical Engineer · Robotics & Control Systems · CAD/CAE Simulation · Cyber-Physical Systems
 
 I build engineering systems at the intersection of **mechanical design**, **robotics**, **control systems**, **simulation**, and **engineering software**.
 
