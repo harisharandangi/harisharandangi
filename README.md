@@ -11,8 +11,11 @@ I build engineering systems at the intersection of **mechanical design**, **robo
 <a href="https://harisharandangi.com.np">
   <img src="https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
+<a href="https://www.linkedin.com/in/hari-sharan-dangi-35252b224">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <a href="https://textocad.com">
-  <img src="https://img.shields.io/badge/TextoCAD-AI%20-2563eb?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TextoCAD%20-2563eb?style=for-the-badge&logo=autodesk&logoColor=white" />
 </a>
 <a href="https://gadidokan.com">
   <img src="https://img.shields.io/badge/GadiDokan-0891b2?style=for-the-badge&logo=googlemaps&logoColor=white" />
