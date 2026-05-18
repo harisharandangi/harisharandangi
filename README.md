@@ -1,163 +1,297 @@
-<h1 align="center">Hi, I'm Hari Sharan Dangi 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Mechatronics Engineer · Robotics & Control Systems · CAD/CAE Simulation · Cyber-Physical Systems</b>
-</p>
+# Hi, I'm Hari Sharan Dangi 👋
 
-<p align="center">
-  <a href="https://harisharandangi.com.np">Portfolio</a> ·
-  <a href="https://textocad.com">TextoCAD</a> ·
-  <a href="https://gadidokan.com">GadiDokan</a> ·
-  <a href="mailto:harrysharandc@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/your-linkedin-username">LinkedIn</a>
-</p>
+### Mechatronics Engineer · Robotics & Control Systems · CAD/CAE Simulation · Cyber-Physical Systems
+
+I build engineering systems at the intersection of **mechanical design**, **robotics**, **control systems**, **simulation**, and **engineering software**.
+
+<br />
+
+<a href="https://harisharandangi.com.np">
+  <img src="https://img.shields.io/badge/Portfolio-harisharandangi.com.np-0f766e?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://textocad.com">
+  <img src="https://img.shields.io/badge/TextoCAD-AI%20Text--to--CAD-2563eb?style=for-the-badge&logo=autodesk&logoColor=white" />
+</a>
+<a href="https://gadidokan.com">
+  <img src="https://img.shields.io/badge/GadiDokan-Founder-0891b2?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</a>
+<a href="mailto:harrysharandc@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-dc2626?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br />
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Robotics+%7C+Control+Systems+%7C+CAD%2FCAE+Simulation;SLAM+%7C+LQR+%7C+ROS+%7C+Gazebo+%7C+MATLAB;Building+TextoCAD+and+GadiDokan;Engineering+systems+with+curiosity%2C+precision%2C+and+practical+impact" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## About Me
+## 🧭 About Me
 
 I am a **Mechanical and Mechatronics Engineer** currently pursuing an **M.Sc. in Mechatronics and Cyber-Physical Systems** at the **Deggendorf Institute of Technology, Germany**.
 
-My work connects **robotics, control systems, autonomous navigation, CAD/CAE simulation, additive manufacturing, digital manufacturing, and engineering software platforms**.
+My work focuses on:
 
-I am also the **Founder & Managing Director of GadiDokan Pvt. Ltd.**, where I apply mechanical engineering, vehicle refurbishment workflows, procurement, and digital systems to practical vehicle-focused services.
+- 🤖 Robotics, autonomous navigation, SLAM, and mobile robot control  
+- 📐 CAD/CAE simulation, FEM, CFD, and mechanical system modeling  
+- 🎛️ LQR, PID, state-space modeling, and control system design  
+- 🏭 Additive manufacturing, digital manufacturing, and digital twin workflows  
+- 💻 Engineering software platforms for CAD automation and vehicle systems  
 
----
-
-## Current Focus
-
-- Full-state feedback control for mobile robots using **LQR**
-- SLAM-based navigation and path planning in **ROS / Gazebo**
-- CAD-to-simulation workflows using **SolidWorks, URDF, ROS, and Gazebo**
-- AI-assisted engineering design workflows through **TextoCAD**
-- Vehicle refurbishment and digital vehicle systems through **GadiDokan**
+I am also the **Founder & Managing Director of GadiDokan Pvt. Ltd.**, where I combine engineering, vehicle refurbishment workflows, procurement, and digital systems to build practical vehicle-focused services.
 
 ---
 
-## Featured Projects
+## 🚀 Current Focus
 
-### TextoCAD — AI-Assisted Text-to-CAD Platform
+<table>
+<tr>
+<td width="50%">
 
-A web platform for generating CAD previews and exportable 3D formats from natural language prompts.
+### 🤖 Robotics & Control
 
-**Focus areas**
+- Full-state feedback control using **LQR**
+- Self-balancing robot stabilization
+- PID and state-space modeling
+- MATLAB/Simulink control simulation
+- ROS/Gazebo robot simulation
 
-- Text-to-CAD generation workflow
-- Parametric CAD editing
-- 3D preview and export pipeline
-- Future B-Rep / STEP generation architecture
-- Engineering design automation
+</td>
+<td width="50%">
 
-**Tech stack**
+### 🧠 Autonomy & Navigation
 
-`Next.js` · `FastAPI` · `Three.js` · `PostgreSQL` · `Redis` · `CAD Automation`
-
----
-
-### Integrated SLAM-Based Navigation and LQR Stabilization
-
-Research project focused on autonomous mobile robot navigation and full-state feedback stabilization.
-
-**Core work**
-
-- Mathematical modeling and state-space representation
-- LQR controller design and tuning
-- MATLAB/Simulink simulation
-- ROS/Gazebo navigation workflow
-- Mobile robot stabilization and path planning
-
-**Tools**
-
-`MATLAB` · `Simulink` · `ROS` · `Gazebo` · `Python` · `Control Systems`
-
----
-
-### SolidWorks to Gazebo: Self-Balancing Robot Simulation
-
-A robotics simulation workflow converting CAD design into a controllable robot simulation.
-
-**Core work**
-
-- Designed physical structure in SolidWorks
-- Exported robot model to URDF
-- Implemented PID control using IMU feedback
-- Simulated balancing behavior in Gazebo
-
-**Tools**
-
-`SolidWorks` · `URDF` · `ROS Noetic` · `Gazebo` · `Python` · `PID Control`
-
----
-
-### Dijkstra-Based Mobile Robot Navigation
-
-A ROS-based mobile robot navigation project using global planning and local motion control.
-
-**Core work**
-
-- Dijkstra global path planner
+- SLAM-based navigation
+- Dijkstra global path planning
 - Local obstacle avoidance
-- GMapping-based map generation
-- RViz visualization
-- Velocity-based kinematic controller
+- RViz/Gazebo visualization
+- Mobile robot path tracking
 
-**Tools**
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-`ROS` · `Python` · `Dijkstra` · `GMapping` · `RViz` · `Gazebo`
+### 📐 CAD / CAE / Simulation
 
----
+- SolidWorks to URDF workflow
+- FEM and CFD simulation
+- Mechanical system modeling
+- Additive manufacturing
+- Digital twin manufacturing workflows
 
-### Digital Twin Integration in Gear Manufacturing
+</td>
+<td width="50%">
 
-Production planning and digital manufacturing workflow connecting process simulation with factory layout optimization.
+### 💻 Engineering Platforms
 
-**Core work**
+- **TextoCAD** — AI-assisted text-to-CAD platform
+- **GadiDokan** — vehicle-focused digital operation platform
+- Next.js + FastAPI engineering web systems
+- CAD automation architecture
 
-- 3D process simulation using ema Work Designer
-- MTM-UAS time analysis
-- Ergonomic assessment
-- Factory layout optimization using visTABLE
-- Digital twin workflow for gear manufacturing
-
-**Tools**
-
-`ema Work Designer` · `visTABLE` · `Digital Twin` · `MTM-UAS` · `Ergonomics`
-
----
-
-## Research Interests
-
-`Control Theory` · `SLAM` · `Autonomous Systems` · `Mobile Robots` · `Reinforcement Learning`  
-`FEM` · `CFD` · `Topology Optimization` · `Additive Manufacturing` · `Cyber-Physical Systems`  
-`CAD Automation` · `Engineering Design Software` · `Digital Twin`
+</td>
+</tr>
+</table>
 
 ---
 
-## Technical Skills
+## 🛠️ Tech Stack
 
-### Robotics & Control
+### Robotics, Control & Simulation
 
-`ROS` · `Gazebo` · `RViz` · `GMapping` · `SLAM` · `LQR` · `PID` · `State-Space Modeling` · `Path Planning`
+<p>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gazebo-7057ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/RViz-0891b2?style=flat-square" />
+  <img src="https://img.shields.io/badge/SLAM-0f766e?style=flat-square" />
+  <img src="https://img.shields.io/badge/LQR-1d4ed8?style=flat-square" />
+  <img src="https://img.shields.io/badge/PID-7c3aed?style=flat-square" />
+  <img src="https://img.shields.io/badge/State--Space%20Modeling-0f172a?style=flat-square" />
+</p>
 
 ### Programming
 
-`Python` · `MATLAB` · `C` · `TypeScript` · `JavaScript` · `HTML` · `CSS`
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
 
-### CAD / CAE / Simulation
+### CAD / CAE / Manufacturing
 
-`SolidWorks` · `CATIA` · `AutoCAD` · `Ansys` · `MATLAB/Simulink` · `CFD` · `FEM` · `URDF`
+<p>
+  <img src="https://img.shields.io/badge/SolidWorks-dc2626?style=flat-square" />
+  <img src="https://img.shields.io/badge/CATIA-1d4ed8?style=flat-square" />
+  <img src="https://img.shields.io/badge/AutoCAD-e11d48?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ansys-facc15?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/FEM-0f766e?style=flat-square" />
+  <img src="https://img.shields.io/badge/CFD-0891b2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Additive%20Manufacturing-7c3aed?style=flat-square" />
+</p>
 
-### Manufacturing & Prototyping
+### Web & Engineering Software
 
-`FDM 3D Printing` · `SLA` · `DMLS / SLM` · `CNC Machining` · `Laser Cutting` · `Welding`
-
-### Web & Engineering Platforms
-
-`Next.js` · `React` · `FastAPI` · `PostgreSQL` · `Redis` · `Docker` · `Three.js`
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-dc382d?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+</p>
 
 ---
 
-## Publications
+## 🔬 Featured Engineering Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧩 TextoCAD  
+**AI-Assisted Text-to-CAD Platform**
+
+A web platform for generating CAD previews and exportable 3D formats from natural language prompts.
+
+**Focus**
+
+- Text-to-CAD workflow
+- Parametric CAD editing
+- 3D preview and export
+- Future B-Rep / STEP pipeline
+- Engineering design automation
+
+**Stack**
+
+`Next.js` · `FastAPI` · `Three.js` · `PostgreSQL` · `CAD`
+
+</td>
+<td width="50%">
+
+### 🚗 GadiDokan  
+**Vehicle Refurbishment & Digital Operations**
+
+A vehicle-focused company applying engineering workflows, procurement, repair planning, and digital operations.
+
+**Focus**
+
+- Vehicle refurbishment
+- Repair workflow management
+- Vehicle digital operations
+- Future search/marketplace platform
+- Engineering + entrepreneurship
+
+**Website**
+
+[gadidokan.com](https://gadidokan.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 LQR Self-Balancing Robot  
+**Full-State Feedback Control**
+
+Research project focused on mobile robot stabilization using LQR and state-space control.
+
+**Focus**
+
+- State-space modeling
+- LQR controller tuning
+- MATLAB/Simulink simulation
+- ROS/Gazebo integration
+- Stability analysis
+
+</td>
+<td width="50%">
+
+### 🗺️ ROS Navigation Stack  
+**Dijkstra Planner + Local Control**
+
+A mobile robot navigation project using Dijkstra global planning, local obstacle avoidance, and RViz visualization.
+
+**Focus**
+
+- Dijkstra global planner
+- Local path planner
+- GMapping
+- RViz visualization
+- Gazebo simulation
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛩️ UAV / Fixed-Wing Aerial Vehicle  
+**CFD + Fabrication + Testing**
+
+Mechanical design and simulation project involving aerodynamic modeling, fabrication, and physical testing.
+
+**Focus**
+
+- UAV design
+- CFD simulation
+- Physical prototyping
+- FDM/SLA fabrication
+- Experimental testing
+
+</td>
+<td width="50%">
+
+### 🏭 Digital Twin Gear Manufacturing  
+**ema + visTABLE Workflow**
+
+Digital manufacturing workflow connecting process simulation, ergonomics, MTM-UAS, and factory planning.
+
+**Focus**
+
+- Digital twin
+- Process simulation
+- Factory layout
+- Ergonomic analysis
+- Production planning
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Research Interests
+
+<p>
+  <img src="https://img.shields.io/badge/Control%20Theory-0f766e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SLAM%20%26%20Autonomy-0891b2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mobile%20Robots-2563eb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FEM%20%2F%20CFD-d97706?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Additive%20Manufacturing-dc2626?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Digital%20Twin-155e75?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cyber--Physical%20Systems-334155?style=for-the-badge" />
+</p>
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Location | Status |
+|---|---|---|---|
+| M.Sc. Mechatronics & Cyber-Physical Systems | Deggendorf Institute of Technology | Germany | Ongoing |
+| B.E. Mechanical Engineering | Pashchimanchal Campus, Tribhuvan University | Nepal | First Division, 76.68% |
+
+---
+
+## 🧪 Publications
 
 - **H. S. Dangi**, D. Tamang, M. C. Mahatto, Ram Tripathi, N. Bhattarai,  
   *Design and Fabrication of An Electrical Glider to Compare Theoretical and Experimental Parameter*,  
@@ -173,7 +307,7 @@ Production planning and digital manufacturing workflow connecting process simula
 
 ---
 
-## Engineering Workflow
+## ⚙️ Engineering Workflow
 
 ```txt
 Requirement Understanding
